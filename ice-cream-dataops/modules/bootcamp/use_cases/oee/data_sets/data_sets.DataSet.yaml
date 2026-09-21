@@ -1,5 +1,5 @@
 - externalId: {{uc_oee_ds_external_id}}
-  name: ds:uc_oee
+  name: ds_uc_oee
   description: This is the raw dataset created for the bootcamp day 1 setup (UC OEE calculation)
   writeProtected: false
   metadata:

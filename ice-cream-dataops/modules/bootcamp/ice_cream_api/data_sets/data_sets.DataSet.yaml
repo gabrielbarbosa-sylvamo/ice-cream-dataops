@@ -1,5 +1,5 @@
 - externalId: {{icapi_ds_external_id}}
-  name: ds:ice_cream_factory
+  name: ds_ice_cream_factory
   description: This is the raw dataset created for the bootcamp day 1 setup on the RAW staging area
   writeProtected: false
   metadata:
